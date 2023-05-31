@@ -23,11 +23,8 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="" target="_blank">
+    <a href="https://www.linkedin.com/in/leopold-gerber-8795771b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcHSkB77nT2az4QTupoT07A%3D%3D" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
