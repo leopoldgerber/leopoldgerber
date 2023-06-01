@@ -70,7 +70,6 @@
 | skillfactory.ru Окончил курс Data Science                       | 06/2021 - 05/2023 |
 | skillfactory.ru Окончил курс ML Engineer                        | 05/2022 - 05/2023 |
 
-<!-- ### 💻 Codewars:
+<!-- ### 💻 Codewars: -->
 
 ![codewars](https://www.codewars.com/users/leopoldgerber/badges/large)
--->
