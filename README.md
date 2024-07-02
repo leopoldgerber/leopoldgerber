@@ -1,6 +1,6 @@
 
 # Hello, my name is Leopold!
-I am a Data Analyst/ML-Engineer with more than 3x years of experience.
+I am a Data Analyst / ML-Engineer with more than 3x years of experience.
 ---
 
 ### About me:
