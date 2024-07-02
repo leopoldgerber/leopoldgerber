@@ -1,10 +1,11 @@
 
-# Привет, меня зовут Леопольд!
-
+# Hello, my name is Leopold!
+I am a Data Analyst/ML-Engineer with more than 3x years of experience.
 ---
 
-### Обо мне: 
-Опыт работы более 2 лет в роли системного аналитика/аналитика данных. Окончил обучение на аналитика данных и дата сайентиста (направление ML-инженер).
+### About me:
+I am a Data Analyst/ML-Engineer with over 3x years of experience in data analysis, process automation, optimisation of existing systems, system integration.
+I value structure and quality in my work and rely on modern workflow methods.
 
 ### :man_technologist: В мои обязанности входило:
 
