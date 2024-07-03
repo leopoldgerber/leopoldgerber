@@ -52,7 +52,7 @@ Data-driven professional with 3+ years of experience in data analysis and machin
 
 ---
 
-### :man_technologist: В мои обязанности входило:
+### :man_technologist: Key responsibilities:
 
 - Автоматизация отчетности.
 - Оптимизация существующих систем обработки данных.
@@ -75,14 +75,10 @@ Data-driven professional with 3+ years of experience in data analysis and machin
   </div>
 
 ---
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-</div>
 
----
+### 💻 Courses completed:
 
-### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
+| Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | skillfactory.ru Окончил курс Data Analyst                       | 06/2021 - 05/2022 |
 | skillfactory.ru Окончил курс Data Science                       | 06/2021 - 05/2023 |
