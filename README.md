@@ -81,8 +81,8 @@ Data-driven professional with 3+ years of experience in data analysis and machin
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| skillfactory.ru Graduated from the Data Analyst course          | 06/2021 - 05/2022 |
-| skillfactory.ru Graduated from the Data Science course          | 06/2021 - 05/2023 |
+| skillfactory.ru Completed Data Analyst course                   | 06/2021 - 05/2022 |
+| skillfactory.ru Completed Data Science course                   | 06/2021 - 05/2023 |
 | skillfactory.ru Graduated from the ML-Engineer course           | 05/2022 - 05/2023 |
 
 <!-- ### 💻 Codewars: -->
