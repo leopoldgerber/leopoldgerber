@@ -54,15 +54,20 @@ Data-driven professional with 3+ years of experience in data analysis and machin
 
 ### :man_technologist: Key responsibilities:
 
-- Автоматизация отчетности.
-- Оптимизация существующих систем обработки данных.
-- Сбор, анализ и визуализация данных с помощью BI систем. 
-- Поиск аномалий в БД.
-- Обработка нерегламентированных (ad hoc) запросов отделов (маркетинг, финансы, продвижение).
-- Составление выплат партнерам и депозиторам.
-- Проведение A/B тестов.
-- Анализ проводимых акций.
-- Анализ рисков внутренних курсов конвертации.
+- Automated report generation
+- Streamlined report preparation
+- Conducted comprehensive statistical research
+- Enriched data and feature engineering
+- Designed and implemented machine learning algorithms
+- Collected and analyzed data
+- Prepared reports and presentations
+- Provided technical consultations
+- Formulated hypotheses
+- Conducted A/B testing
+- Developed data collection systems
+  - Accumulation potential analysis
+  - Collection of competitor traffic data
+  - Analysis of currency risks
 
 ---
 
