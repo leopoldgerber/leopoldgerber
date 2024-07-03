@@ -7,19 +7,18 @@ ML-Engineer and Data Analyst
 
 Data-driven professional with 3+ years of experience in data analysis and machine learning. Passionate about using modern techniques to extract valuable insights from complex datasets and build high-quality machine learning models. Skilled at applying structured approaches and cutting-edge methodologies to solve complex data challenges. Proven ability to transform raw data into actionable insights that drive business decisions.
 
-### Skills
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;
-</p>
-
 ### Programming Languages
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;
+</p>
+
+### Machine Learning Frameworks:
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit" alt="scikit" width="70" height="auto"/></a>&nbsp;
 </p>
 
 ### Data Analysis Tools:
@@ -29,13 +28,6 @@ Data-driven professional with 3+ years of experience in data analysis and machin
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" title="scipy" alt="scipy" width="40" height="40"/></a>&nbsp;
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="matplotlib" alt="matplotlib" width="40" height="40"/></a>&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" title="seaborn" alt="seaborn" width="40" height="40"/></a>&nbsp;
-</p>
-
-### Machine Learning Frameworks:
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit" alt="scikit" width="70" height="auto"/></a>&nbsp;
 </p>
 
 ### Tools:
@@ -48,6 +40,10 @@ Data-driven professional with 3+ years of experience in data analysis and machin
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Plotly-logomark-avatar.jpg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
   <img src="https://cdn.cdnlogo.com/logos/t/73/tableau-software.svg" title="tableau" alt="tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;
+
 </p>
 
 ---
@@ -85,9 +81,9 @@ Data-driven professional with 3+ years of experience in data analysis and machin
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| skillfactory.ru Окончил курс Data Analyst                       | 06/2021 - 05/2022 |
-| skillfactory.ru Окончил курс Data Science                       | 06/2021 - 05/2023 |
-| skillfactory.ru Окончил курс ML Engineer                        | 05/2022 - 05/2023 |
+| skillfactory.ru Graduated from the Data Analyst course          | 06/2021 - 05/2022 |
+| skillfactory.ru Graduated from the Data Science course          | 06/2021 - 05/2023 |
+| skillfactory.ru Graduated from the ML-Engineer course           | 05/2022 - 05/2023 |
 
 <!-- ### 💻 Codewars: -->
 
