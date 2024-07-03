@@ -64,7 +64,7 @@ Data-driven professional with 3+ years of experience in data analysis and machin
 - Provided technical consultations
 - Formulated hypotheses
 - Conducted A/B testing
-- Developed data collection systems
+- Developed data collection systems:
   - Accumulation potential analysis
   - Collection of competitor traffic data
   - Analysis of currency risks
